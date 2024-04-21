@@ -26,28 +26,8 @@ In Kentucky, we have filed a proposed settlement of our rate case.
 The settlement includes an overall increase in revenues of $18.6 million to support continued investments in safety and replacing aging infrastructure.
 Columbia Gas of Maryland received a proposed order from an administrative law judge on Friday, recommending an increase of approximately $2.56 million in revenues as compared to our request of approximately $4.8 million.
 We expect a final order from the Maryland Public Service Commission in December.
-Before we move on, I'd like to note the Columbia Gas of Ohio, our largest LDC, is ranked number 1 in the Midwest region in J.D. Power's 2021 Gas Utility Business Customer Satisfaction Study.
-Also congratulations to our customer experience team for the successful launch of the Columbia Gas and NIPSCO mobile apps.
-They are an important step forward in building our connected digital customer experience.
-Let's now turn to our electric operations on Slide 10.
-NIPSCO's electric TDSIC plan is pending before the Indiana Utility Regulatory Commission or IURC.
-This is a five-year $1.6 billion proposal that would replace the previous plan, which NIPSCO filed in April to terminate.
-The pending plan includes newly identified projects aimed at enhancing service and reliability for customers as well as some previously identified projects.
-The selection of the preferred path from NIPSCO's 2021 IRP is a significant milestone in our transition from coal-fired generation toward cleaner and reliable forms of generation, all of which are expected to save NIPSCO customers' approximately $4 billion over the long term.
-The preferred path from the 2021 IRP refines the timeline to retire coal-fired generation at the Michigan City Generating Station to between 2026 and 2028.
-It also calls for retirement of two vintage gas peaking units 16A and 16B, which are both located at the Schahfer Generating Station site.
-The most viable replacement option calls for our portfolio of resources, including incremental solar, stand-alone battery storage and natural gas peaking resources.
-We estimate that investments of up to $750 million will be required to support the retirements of these units.
-We expect to be able to quantify the NIPSCO portion of this investment opportunity in the first half of next year after further evaluating bids and the request for proposals and completing due diligence on projects, which align with the preferred path.
-Meanwhile, we continue to execute on the plan for retirement of remaining coal-fired generation at Schahfer.
-Units 14 and 15 retired as of October 1st and units 17 and 18 are on track to retire by 2023.
-We are making steady progress on the renewables project build out, informed by the preferred path from NIPSCO's 2018 IRP.
-Our partners on these projects are some of the strongest developers in the renewable energy space and we remain in close contact regarding the progress of these projects.
-We continue to expect to invest approximately $2 billion in renewable generation by 2023 to replace the retiring capacity at Schahfer.
-As part of the execution of this plan, construction continues on the Indiana Crossroads I wind project, which is on track to become operational in the fourth quarter of this year.
-Construction has also started on a pair of solar projects Dunns Bridge Solar I is being constructed by a subsidiary of NextEra Energy Resources under a build transfer agreement.
-EDP Renewables North America is building the Indiana Crossroads Solar project, which will be operated as a joint venture.
-Both are expected to enter service next year.
+Before we move on, I'd like to note the Co...
+....
 The IURC provided regulatory approval of the Indiana Crossroads II wind project on September 1st and with that action, all 14 renewables projects needed to replace the retiring capacity of Schahfer Generating Station, have now received approval.
 In addition to the slate of renewables projects we have announced, NiSource plans to evaluate hydrogen in emerging storage technologies.
 It's important for us to gain a risk informed understanding of the options and technologies that may emerge as pathways toward further decarbonization.

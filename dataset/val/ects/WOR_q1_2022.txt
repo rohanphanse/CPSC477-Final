@@ -28,18 +28,8 @@ In Consumer Products, net sales in Q1 were $148 million, up 10.6% from the prior
 Legacy consumer products revenues were up slightly and the inclusion of sales from GTI, which was acquired in January, drove the balance of the growth.
 EBIT for the consumer business was $21 million and EBIT margin was 14%, down from $24 million and 18% in the prior-year quarter.
 The decrease in EBIT was due to higher labor and input costs.
-Our consumer business has some longer fixed-price contracts with customers, which can create a short-term drag on margins when input rises -- when input prices rise as rapidly as they have.
-These dynamics are typically short term and we do expect margins to improve moving forward.
-Building Products generated net sales of $115 million in Q1, which was up 30% from $88 million in the prior-year quarter.
-Increase was due primarily to higher volumes as the prior-year quarter was impacted by COVID-related disruptions.
-Building Products EBIT was $49 million and EBIT margin was 42%, up significantly from $23.4 million and 27% in Q1 of last year.
-We saw significant growth year-over-year in our wholly owned Building Products businesses but the majority of the upside was driven by strong results at WAVE and ClarkDietrich that contributed $26 million and $17 million respectively in equity earnings.
-WAVE and ClarkDietrich both had better demand environments than in Q1 of last year and all of our teams in Building Products are doing an excellent job managing dynamic supply chains and continuing to execute in challenging conditions.
-In Sustainable Energy Solutions net sales in Q1 were $25 million, down from $28 million in the prior-year quarter.
-Largest end market for this business is transportation and the semiconductor chip shortage created a headwind for them with respect to demand.
-In addition, the economy in Europe is recovering, but very slowly.
-The business reported a negative EBIT of $3 million in the current period as volumes were too low to absorb fixed costs.
-We remain very excited about this business and its prospects over the long term as its innovative products and solutions are poised to grow quickly serving hydrogen ecosystem and adjacent sustainable energies like compressed natural gas.
+Our consumer business has some longer fixed-price contracts with customers, which can create a short-term dra...
+...rogen ecosystem and adjacent sustainable energies like compressed natural gas.
 With respect to cash flows in our balance sheet, operations used cash of $50 million in the quarter, which was driven by $149 million increase in working capital, primarily associated with higher steel prices along with annual accrued compensation being paid out during the quarter.
 Absent further increases in steel prices, we would expect the significant working capital increases to subside in the next quarter or two.
 During the quarter, we received $20 million in dividends from our unconsolidated JVs, received $27 million in proceeds from asset sales, completed one acquisition for $105 million, invested $24 million in capital projects, paid $15 million in dividends and spent $61 million to repurchase 1 million shares of our common stock.

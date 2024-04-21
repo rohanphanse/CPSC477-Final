@@ -30,52 +30,8 @@ Key to this program will be ensuring the deployment of world-class execution tea
 I'd like to take the next few minutes to inform you on what is happening across our end markets and what we expect to see over the next few quarters.
 In Energy Solutions, this quarter, our ICA Fluor joint venture was awarded three contracts totaling $2.8 billion for the PEMEX Dos Bocas refinery in Mexico.
 We have a long and successful history of PEMEX contracts, and we are pleased to be adding our $1.4 billion share of this refinery program to backlog.
-During the quarter, a chemicals project was canceled.
-And as a result, we removed approximately $1 billion from backlog while slightly increasing Energy Solutions total backlog to $11.1 billion.
-When we unveiled our strategy in January, there was a lot of interest in Fluor's energy transition opportunities, supporting a reduced carbon future.
-Over the past few months, we've been in extensive conversations with clients about our energy transition capabilities.
-We are executing several carbon capture FEED and feasibility studies using our proprietary Econamine FG plus technology.
-Additionally, we are doing early work in the areas of refinery efficiency, gasification to produce carbon-negative energy, green hydrogen, renewable diesel, renewable jet fuel and energy storage.
-In each of these areas, we have identified projects and are continuing to pursue new opportunities as well.
-I encourage all of you to check out the project website and social media channels to see our progress on the project.
-On site, we have completed all site preparation work.
-The Cedar Valley Lodge camp is filling up, pilings are in place and -- overseas -- modules are being constructed in the fab yards.
-We've been remobilizing craft workers on site and are currently at required staffing levels.
-In 2021, the focus on site is completing the installation of underground cable and pipe as well as concrete foundations.
-This will allow the project team to go vertical and be positioned for the receipt of large equipment and the first modules which are scheduled to arrive later this year.
-COVID-19 and changes in law have impacted both engineering and material deliveries as well as the site's ability to mobilize workers due to public health orders.
-However, several opportunities are being jointly explored with the client to mitigate the COVID-19 and change in law impacts.
-We will keep you updated on the outcome of these discussions.
-Moving to Urban Solutions on Slide 8.
-This segment is comprised of the infrastructure, mining and metals and advanced technologies and life sciences end markets.
-In infrastructure, we completed the handover for the 183 South Highway project outside of Austin, just a few miles from the Oak Hill Parkway project we booked in 2020.
-There is obviously a lot of interest and excitement with the proposed federal infrastructure plan.
-We think a long-term infrastructure bill would obviously be a good thing for the U.S. economy.
-In addition to providing needed funding for surface transportation improvements, it would enable state and local governments to better plan for future growth and capacity needs.
-It's too soon to tell what impact the bill could have on Fluor, but we typically experience a two- to three-quarter lag between any new federal infrastructure spending and the release of construction and services RFPs within the states.
-Within our infrastructure-focused area of regional projects in selected states, we are tracking some key opportunities in Texas and North Carolina this year.
-Next, we remain confident in our mining and metals opportunities and prospects.
-We are currently completing FEED work that represents $20 billion of potential projects, and we see a robust pipeline of FEED and feasibility studies ahead of us.
-These projects will support an increasingly urbanized and electrified world that is driving the need for investment in minerals like copper and lithium.
-We have several large prospects in 2021 and expect awards throughout the year.
-For our last group in Urban Solutions, we have a lot of positive momentum in advanced technologies and life sciences, as we briefly mentioned in February.
-In the first quarter, we won a significant EPCM biotech project in Europe.
-This award from Fujifilm is for a world-scale biologics drug substance manufacturing facility that will be used to produce a variety of treatments, including vaccines.
-As we have seen over the last 18 months, vaccine development is an integral part of our global economy, and facilities like this one will be essential going forward in protecting the population.
-Finally, there's been a lot of news recently about the inability of semiconductor chip manufacturers to increase production to meet demand.
-While it will take several months for the supply chain to overcome this shortage, this is another area where we can leverage our advanced manufacturing capabilities.
-Currently, we are tracking several semiconductor prospects in the United States.
-Moving to Mission Solutions on Slide 10.
-This quarter, our Fluor-led joint venture won an extension for the Portsmouth decontamination and decommissioning contract from the Department of Energy in Ohio.
-This reimbursable 12-month contract with two six-month options is valued at $690 million.
-The DOE is a key long-term client, and we look forward to continuing our support at Portsmouth.
-And finally, a few weeks ago, the federal government announced that it was -- would withdraw all troops from Afghanistan by September 11.
-Although uncertainty about the pace of withdrawal remains, Fluor expects to book an additional three-month extension to LOGCAP IV in the second quarter that will allow us to further support the U.S. Army in Afghanistan until they are demobilized.
-Peter is the last of a long line of family members to serve the company since our founding in 1912.
-Joining the Board in 1984, he continued the Fluor family legacy of a commitment to excellence, integrity and ethics, always putting the safety and well-being of employees first and recognizing that teamwork is a key component of our success.
-For the first quarter of 2021, we are reporting adjusted earnings per share of $0.07.
-As a reminder, we are adjusting out NuScale expenses, foreign exchange fluctuations, impairments and certain legal-related costs.
-Our adjusted results also exclude an embedded foreign currency derivative for an Energy Solutions project in Mexico.
+During the quarte...
+...exclude an embedded foreign currency derivative for an Energy Solutions project in Mexico.
 This derivative is based on exchange rates between the U.S. dollar and the Mexican peso and will fluctuate over the life of the contract or at least until the job has been fully procured.
 Our overall segment profit for the quarter was $60 million or 2% and includes the $29 million embedded derivative in Energy Solutions and quarterly NuScale expenses of $15 million.
 This compares favorably to $55 million in the first quarter of 2020.

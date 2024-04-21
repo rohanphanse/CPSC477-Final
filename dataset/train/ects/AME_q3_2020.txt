@@ -30,50 +30,8 @@ Our Electromechanical Group also saw sequential sales improvement and mitigated 
 EMG sales were $378.6 million, down 18% from last year's third quarter, driven in part by the impact of the Reading Alloys divestiture.
 Organic sales were down 13%, with a divestiture of 8-point headwind, the acquisition of PDT added two points and foreign currency adding one point.
 EMG's operating income was $84.3 million and operating margins were solid at 22.3% for the quarter.
-Let me comment briefly on end-market dynamics for some of our businesses.
-Overall, we saw solid sequential sales improvements across all markets in the third quarter.
-We expect continued sequential improvements in the fourth quarter for all businesses other than customer aerospace, where we expect largely flat conditions sequentially.
-Our strongest market remains defense, where we continue to be well-positioned with content across a wide range of important defense platforms.
-We are also very well-positioned with our medical and healthcare businesses.
-Although, they experienced a delay in the return of electro procedures during the third quarter, which offsets solid COVID-driven demand.
-And our most challenging market remains commercial aerospace remain cautious of a trajectory of a recovery given the uncertainty caused by COVID-19.
-Given the uncertain and challenging end-market dynamics, our businesses remain highly focused on driving operational excellence initiatives, both structural and temporary, to manage topline weakness, while ensuring we maintain our investments and key growth initiatives across the company.
-AMETEK's asset-light operating model provides us with the flexibility to do both.
-Our ability to expand margins and generate strong levels of cash flow during this pandemic is evidence of the strength of our operating model.
-In the third quarter, we generated $70 million in total cost savings, which was at the high end of our expectations, with $40 million in structural savings and $30 million in temporary cost reduction savings.
-Looking ahead to the fourth quarter, we expect a slightly higher level of structural savings, while temporary savings will be reduced from the third quarter levels, as we add back additional temporary costs during the quarter.
-As a result, we expect approximately $55 million in our total cost savings in the fourth quarter, with $45 million in structural and $10 million in temporary cost savings.
-And for the full year, we expect approximately $230 million in total cost savings, with $140 million in structural savings and $90 million in temporary savings.
-Our businesses continue to implement new and innovative ways to reach our customers around the world in new markets.
-Through virtual meeting platforms, augmented reality product demonstrations and service, and enhanced digital marketing initiatives, our businesses have adapted quickly to the new landscape.
-Seeing our businesses adopt these new ways of doing business quickly and effectively has been very impressive.
-Our businesses are also collaborating across platforms.
-As an example, AMETEK Land and AMETEK Rauland recently partnered together to help support Rauland's reopen schools safely campaign for their Telecenter U solution.
-Rauland is the leading provider of critical communications, workflow and safety solutions for hospitals and schools.
-Their Telecenter U solution connects classrooms and educational facilities to district offices for emergencies, event management and everyday communications.
-As I mentioned on our last earnings call, AMETEK Land, a leading manufacturer of non-contact temperature measurement solutions, recently developed their new VIRALERT three system for rapid detection of elevated skin temperatures at points of entry to various facilities, including schools.
-Through this collaborative effort, Rauland was able to incorporate Land's VIRALERT three technology into their Telecenter U solution to help their customers safely reopen their schools by allowing for temperature screening of students and faculty.
-In return, AMETEK Land will reach thousands of new potential customers through Rauland's well-established network of school districts.
-The result was a valuable solution for our customers.
-Congratulations to the AMETEK and the AMETEK Rauland team for the success on this project.
-We are also finding ways to support our customers through new product innovation.
-Throughout the pandemic, we continue to invest meaningfully in our research and development initiatives, and we are seeing great success from these efforts.
-Our Vitality Index, which measures the amount of sales generated from new products introduced during the last three years was very strong at 25% in the quarter.
-During the quarter, Creaform, a worldwide leader in 3D measurement solutions, unveiled its R-Series 3D scanning solution that is designed for automated dimensional quality control applications.
-The suite of R-Series solutions includes the new robot-mounted MetraSCAN 3D scanner with CUBE-R, a turnkey industrial measuring cell that is designed to be integrated into factories for at-line inspections.
-Together, the solution provides customers with much faster cycle times, more accurate and repeatable results, higher resolution and operational simplicity, to increase productivity by measuring more dimensions on more parts without compromising on accuracy.
-Congratulations to the Creaform team for launching this outstanding new solution.
-Now shifting to acquisitions.
-While deal flow during the second quarter and third quarter has been impacted by the pandemic, we are starting to see a healthy pickup in activity.
-Our pipeline is strong and conversations with acquisition targets are accelerating.
-As Bill will highlight in a moment, over the last two quarters, we have further strengthened our balance sheet and liquidity position, and remain poised to deploy significant capacity -- capital on strategic acquisitions.
-We will remain active, yet disciplined, in our acquisition process.
-We continue to focus on acquiring niche technology leaders with attractive growth profiles with opportunities for us to add value commercially and operationally.
-Now turning to our outlook for the remainder of the year.
-While the global economy continues to present challenges and uncertainties, visibility has improved across most markets.
-As a result, we are providing guidance for the fourth quarter.
-Overall sales in the fourth quarter are expected to be down high-single digits with a similar level of organic sales decline.
-Diluted earnings per share are expected to be in the range of $1 to $1.04, down 4% to 7% versus the prior year.
+Let me comment briefly on end-market dynamics for some of our businesses...
+...gs per share are expected to be in the range of $1 to $1.04, down 4% to 7% versus the prior year.
 Fourth quarter decremental margins are expected to remain solid in the low 20%s.
 To summarize, our businesses delivered a solid quarter in a difficult environment.
 AMETEK continues to manage this global crisis well to the proven strength of the AMETEK growth model and with a talented workforce.

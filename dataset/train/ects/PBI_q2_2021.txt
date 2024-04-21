@@ -36,54 +36,8 @@ Equipment sales grew 46%.
 Supplies grew 14% and business services grew 6%.
 We have decline in support services of 1%; rentals of 2%; and financing of 16%.
 Gross profit of $301 million improved about $17 million over prior year on growth across all segments.
-Gross margin was 33%, which was slightly down from the same period last year, but an improvement from the last two quarters.
-SG&A was $236 million and approximately $3 million higher than prior year.
-SG&A was 26% of revenue, which was nearly a two point improvement over prior year.
-Within SG&A, corporate expenses were $56 million, which was up about $7 million from prior year, largely due to higher employee variable related costs.
-R&D was $11 million or 1% of revenue, which was up approximately $4 million from prior year.
-During the quarter, we received the remaining insurance proceeds of $3 million for the Ryuk Ransomware attack.
-EBITDA was $96 million, an increase of $6 million over prior year, and EBITDA margin was 11%, which was flat to prior year.
-EBIT was $56 million, an increase of $8 million over prior year, and EBIT margin was 6%, which was a slight increase over prior year.
-Interest expense, including finance interest was $36 million.
-Our tax provision was a benefit of about $300,000 and includes a benefit related to a U.K. tax legislation change, which also contributed about $0.03 to earnings per share in the quarter.
-Shares outstanding were approximately 179 million.
-Let me now turn to each segment's performance.
-It is important to note that the year-over-year comparison includes the impact of COVID.
-Prior year results saw a positive impact on e-commerce revenue and an adverse impact on SendTech and Presort.
-As such, I will also provide growth rates from 2019 to 2021 for the larger transactional parts of our business.
-Within e-commerce, revenue grew 3% to $418 million and also grew from first quarter levels.
-The revenue growth over prior year was driven by our cross-border services and partially offset by lower domestic parcel and digital services.
-Domestic parcel volumes were $44 million in the quarter.
-Compared to the second quarter of 2019, e-commerce revenue grew 48%.
-Demand for our services continues to be strong as new business signings accelerated from the first quarter as we're getting merchants onboarded for peak season while balancing demand from current clients.
-We also continue to have success with bundling our services which now represents close to 50% of all new business.
-EBITDA for the quarter was $8 million.
-EBIT was a loss of $11 million.
-Both EBIT and EBITDA were meaningful improvements from prior year.
-We also made significant progress sequentially where second quarter's EBIT margins improved nearly 400 basis points as compared to first quarter, as we were able to improve our productivity and work through some of the residual impact from last year's peak that we saw earlier in the first quarter.
-We continue to work to improve service levels and make progress against our productivity initiatives within our domestic parcel services.
-While still dealing with industrywide concerns around high transportation costs and a competitive labor market.
-We made progress on several unit economics as compared to the first quarter, with the greatest being around labor and transportation cost per piece.
-We saw a reduction in our labor cost per piece in part due to the contribution of our new management talent, along with the maturation of our existing workforce.
-Parcels processed per hour continued to improve from first quarter levels.
-Transportation cost per piece also improved versus prior quarter as we continue to better optimize our shipping lanes.
-Our improvement in execution, coupled with better network balancing are certainly yielding results.
-We continue to invest in automation, including high-end sorters in our larger facilities and sort-to-light automation in our midsized facilities.
-We also announced our partnership with Ambi Robotics last month, which we will be rolling out across our network over the next few years.
-These initiatives take time to integrate, train our employees and produce results.
-And while we're seeing some early benefits, we expect to yield additional benefits during the upcoming peak season.
-Also, as mentioned last quarter, we are in the process of opening two new sites and upgrading another.
-We expect to have this completed prior to the peak season, and it will allow us to handle volumes more efficiently.
-Ultimately, we expect transportation and labor productivity, along with optimizing our final mile costs to be critical drivers in attaining our long-term e-commerce margins.
-And as Marc mentioned, we have made some important additions to our e-commerce management team in order to execute this plan.
-It is an exciting time, and our e-commerce business is moving in the right direction with substantial opportunities still in front of us.
-Our Presort Services and SendTech businesses both turned in solid performances, which were in line with our expectations.
-Within Presort, revenue was $135 million and grew 14% compared to the second quarter of 2019, Presort revenue grew 5%.
-Average daily volumes grew 10% over prior year, largely driven by growth in first-class volumes of 4% and Marketing Mail volumes of 39%.
-EBITDA was $23 million and EBITDA margin was 17%.
-EBIT was $16 million and EBIT margin was 12%.
-EBIT and EBITDA dollars improved from prior year due to revenue growth and margin expansion.
-We remained focused on our productivity initiatives, having improved pieces fed per labor hour by 3%, resulting in 60,000 less processing hours versus prior year.
+Gross margin was 33%, which was slightly down from th...
+...ear.
 Within SendTech, revenue was $346 million and grew 6%.
 We continue to differentiate ourselves in the market with a wide range of end-to-end mailing and shipping offerings that are attractive to businesses ranging from large enterprises to small offices.
 SendTech's SaaS-based shipping products grew at a low double-digit rate over prior year to $31 million this quarter.

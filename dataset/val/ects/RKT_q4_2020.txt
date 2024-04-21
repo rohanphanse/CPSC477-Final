@@ -1,0 +1,60 @@
+We're excited to share these strong results with you.
+But before I turn things over to Jay Farner, I will read our disclaimers.
+Today's call is to provide you with information regarding our fourth-quarter and full-year 2020 performance in addition to our financial outlook.
+Our commentary today will also include non-GAAP financial measures.
+And with that, I'll turn things over to Jay Farner to get us started.
+The excellent results that we're about to discuss and the innovations that drove them are a testament to your focus and dedication in what was an incredibly difficult year for the world.
+Your contributions to our clients and communities were a shining example of how successful our for-more-than-profit mindset can truly be.
+The platform continues to be the key to our long-term success in the verticals where we operate as well as the record results that we've achieved in 2020.
+Over the next few minutes, you'll see how the technology that we've built and refined over decades will continue to drive success, not only in the products that you're familiar with today, but also in product extensions and entirely new verticals in the future.
+If you were to ask us what our most important product is, we'd say it's the platform itself.
+In walking through our results, I'll provide updates on each of the key pillars of the Rocket Platform, our technology, the strength of our brand, the Rocket Cloud Force, which I'll discuss later, and our data science foundation.
+I'll finish today's remarks by talking about how our platform allows us to continue to grow and become more efficient in our existing lines of business while also launching and rapidly scaling new businesses.
+Our mission over the last several decades has been to take the most complicated and stressful transactions in life and simplify them with technology.
+Whether those transactions are mortgage, real estate, auto sales, or any number of new initiatives we're currently incubating, we provide a simple digital process, exceptional client experience, and certainty.
+This mission began in 1998 when our founder and Chairman, Dan Gilbert, wrote an email committing all of the company's resources to moving online.
+His vision was simple, but decades ahead of its time.
+Most of the Internet companies of that era focused on problems like search, advertising, or basic e-commerce.
+Dan saw things differently.
+He spotted the potential to take the most complex transaction in a consumer's life, the buying and financing of a new home, and leverage technology to make it accessible online to consumers across the country.
+For more than two decades, we've been quietly building our technology platform right here in Detroit to transform the way our clients experience life's most important events.
+We've continued to strengthen our digital products and infrastructure in 2020, deploying nearly 4,500 product features throughout the year and delivering improvements to our platform every 28 minutes on average.
+Supporting our platform is our strong national brand that consumers and partners know and trust.
+As we grow, we continue to invest and find new ways to extend our reach and expand our marketing channels we leverage, allowing us to connect with more and more clients.
+I'm pretty sure the majority of you were among the nearly 100 million fans who watched the Super Bowl a couple of weeks ago.
+In that game, we ran two 60-second advertisements highlighting that "certain" is better when it comes to buying a home.
+We aired one commercial, highlighting rocket mortgage and our technology that helps bring certainty to the home buying process, something that is needed now more than ever in today's red hot real estate market.
+The second demonstrated the significant role mortgage brokers play in American homeownership.
+As you know, brokers are important partners as we continue to extend the reach of our platform.
+This massive exposure, the first-ever national advertisement showcasing brokers during a super Bowl allows...
+...in 2020 will roughly triple the industry average.
+While our low-cost platform model is driving record profitability, we're continuing our long-term strategy to reinvest in the business.
+Key targets for investment include our brand, product development, and initiatives to drive growth in the purchase market.
+We continue to invest in talent growth, particularly in technical roles.
+As an example, our data science team now includes over 300 professionals.
+We're seeing high performers choose to join Rocket across multiple teams, including the ongoing expansion of our technology and product strategy teams.
+Our brand is another key investment priority, including our recent Super Bowl ads, which generated significant brand recognition and drove record traffic to our online and mobile properties.
+Among our key product development priorities is Rocket Logic, the next generation of our core workflow management platform.
+The new platform guides users through the next best action, resulting in faster, more accurate workflows.
+We are very impressed with our initial pilot where we are seeing 20% improvement in turn times within the pilot group.
+What's even more exciting is that Rocket Logic can be applied to enhance processes beyond mortgage origination.
+We expect Rocket Logic and our many automation initiatives to drive continued efficiency in the business model.
+The core of our economic flywheel is that we are constantly leveraging our profitability advantages to reinvest in the business, further strengthening our competitive position.
+Another key advantage of the Rocket Companies' platform is our ability to test, launch and rapidly scale new business models.
+This entrepreneurial approach can be seen in our scaled mortgage operations.
+In two years, our partner network has grown from less than $20 billion in closed loan volume to $120 billion on an annual basis.
+We see similar opportunity within our early stage, rapidly expanding businesses such as Rocket Auto, Rocket Loans, and Rocket Homes.
+To that end, and as Jay announced a few minutes ago, the launch of Rocket Labs will further accelerate our focus on expanding the business in ways that leverage our platform and serve our client base.
+We believe our clients will be greatly served over time with these additional business lines.
+Turning to our first-quarter outlook.
+We expect closed loan volume of $98 billion to $103 billion compared to $51.7 billion in the first quarter of 2020; net rate lock volume of $88 billion to $95 billion, up from $56 billion in the first quarter of 2020; and gain-on-sale margins of 3.6% to 3.9% compared to 3.25% in the first quarter of 2020.
+We're excited about the continued strength and momentum of the Rocket platform.
+We ended 2020 with an extremely strong balance sheet, including $2 billion of cash and $7.7 billion of total liquidity.
+Total liquidity includes cash on hand, undrawn lines of credit, undrawn MSR lines, and corporate cash used to self-fund loan originations, which could be transferred to funding facilities at our option.
+As we communicated at the time of our IPO last summer, our capital allocation priorities always start with properly capitalizing and reinvesting in the business.
+As I discussed earlier, we are actively deploying capital with investments in our platform, our brand, and our talent.
+We also want to deploy through add-on acquisitions that would be additive to our economic flywheel and bring value to our client base.
+Our next priority is to return capital to shareholders through dividends, opportunistic use of share buybacks, or a combination of the two.
+Given our record level of profitability in 2020, the Board approved a special dividend of $1.11 per Class A common share funded by an equity distribution of $2.2 billion.
+Our substantial cash generation provides us significant optionality to drive long-term value for our shareholders.
+Additionally, we remain authorized to repurchase up to $1 billion of Rocket Companies' common stock.

@@ -20,48 +20,8 @@ In the end, all of our lenders will have been fully repaid with no deficiencies,
 It was clear to us in late March that our situation was not due to bad assets, but the fragile funding and the path forward would require more durable forms of financing.
 We also recognize that term financing, margin holiday and/or non-mark-to-market financing would necessarily require higher haircuts and therefore more capital.
 Our method for seeking third-party capital began somewhat passively during the last week of March with fielding incoming indications of interest.
-As this process intensified with more and more parties together with negotiating NDAs and then responding to voluminous data requests, all the while with our hair on fire negotiating a forbearance agreement while managing our balance sheet and liquidity and we engaged Houlihan Lokey at the end of March to manage this process for us.
-Initial indications of interest from a number of capital providers came back in mid-April, but as we continue to delever and raise liquidity, it became evident that our third-party capital needs have already changed.
-We extended our initial forbearance agreement at the end of April to June 1 and as we entered May, we began to obtain better price discovery, particularly on our loan portfolio, which gave us more clarity as to our path forward.
-We started a second round of proposals from third-party capital providers in mid-May.
-And as we held due diligence and informational calls with many of these institutions, we found that there was a competitive dynamic at work and a keen interest in pursuing a transaction with MFA.
-We signed a term sheet over Memorial Day weekend and have been working since to negotiate and document this agreement.
-For obvious reasons, we could not communicate publicly about these activities and it was frustrating not to be able to provide the public disclosure and transparency on which we pride ourselves.
-We signed these agreements last night and we're happy to announce today that we have entered into an agreement with Apollo and Athene, an insurance company affiliate of Apollo, to raise $500 million in the form of a senior secured note.
-But this $500 million note is only part of a holistic solution for MFA and a very strategic partnership with Apollo and Athene.
-Apollo and Athene together have arranged a committed term borrowing facility with Barclays of approximately $1.65 billion that includes over $500 million for participation from Athene.
-This term non-mark-to-market facility will provide us with durable financing for a large portion of our loan portfolio.
-In addition, Athene has committed to purchase, subject to certain pricing conditions, a portion of our first securitization of non-QM loans.
-And finally, Apollo and Athene are engaged with another of our lenders to structure an additional similar lending facility for our fix and flip portfolio in which Athene also intends to participate.
-Pro forma for these facilities, approximately 60% of the Company's financing will be in the form of non-mark-to-market funding, providing shareholders with significant downside protection in the event of future market volatility.
-We expect that upon closing and funding of these transactions, we'll be able to satisfy remaining margin calls, which were only $32 million as of June 12 and exit from the current forbearance agreement on or before June 26.
-We also anticipate using some of the proceeds to pay accumulated unpaid dividends on our Series B and C preferred stock issues.
-And finally, we expect that this transaction will provide us with substantial capital to once again begin to pursue attractive investment opportunities.
-As part of this transaction, Apollo and Athene will receive warrants to purchase MFA common stock at varying prices over a five-year period and will appoint a non-voting observer to our Board of Directors.
-Apollo and Athene have also committed to purchase the lesser of 4.9% or $50 million of MFA stock in the open market over the next 12 months.
-We are extremely excited about this transaction, which we consider to be much more than a capital raise and very much a strategic alliance.
-Moving on to the financial results for the first quarter of 2020.
-As others have described before us, the first quarter of 2020 was literally a tale of two distinct and utterly different periods in time.
-January, February and the first two weeks of March were very normal and a good start to the new year.
-And in only a few days, the financial markets and the mortgage market in particular completely collapsed.
-With the onset of the COVID-19 pandemic, pricing dislocations for markets and residential mortgage assets was so extreme that liquidity evaporated.
-Prices of legacy non-agencies, which had not changed by more than 3 points in the last two to three years, were suddenly lower by 20 points.
-CRT securities dropped as much as 20 points to 50 points and MSR-related asset prices were lower by 20 points to 30 points, all in a few days.
-MFA received almost $800 million in margin calls during the weeks of March 16 and March 23 and over $600 million of these were on mortgage-backed securities.
-In contrast, we received $7 million of margin calls on these portfolios during the entire week of March 2 and $37 million during the week of March 9.
-And during the months of December, January, and February, we received a total of six margin calls, all related to factor changes with a total aggregate amount of $4 million.
-During those same three months, we initiated 10 reverse margin calls totaling $14 million, meaning we received net $10 million more from our lenders due to price increases.
-While we began selling assets during the week of March 16, the dearth of liquidity made this difficult.
-We announced on March 24 that we had not met margin calls on March 23 and that we had initiated forbearance discussions with our financing counterparties.
-As we began these negotiations, we continued to sell assets to raise liquidity and reduce leverage.
-Our first quarter financial results were profoundly affected by realized losses, impairment losses, unrealized losses on loans accounted for at fair value, provisions for credit losses under the new CECL standard and valuation adjustments on assets designated and held-for-sale and resulted in a loss of $914 million or $2.02 per share.
-Book value decreased to $4.34 per share at March 31 and economic book value decreased to $4.09 per share.
-Steve Yarad will be available to discuss the financial results from the first quarter during the question-and-answer session.
-I would now like to spend some time discussing balance sheet changes since March 31 and provide some perspective on what we envision after funding of the Apollo and Athene transaction and exit from forbearance.
-Page 7 of the earnings deck shows portfolio activity from December 31 to March 31 and then again from March 31 to May 31.
-As you can see from the pie charts, we have sold substantially all of our mortgage-backed securities and our $6.6 billion portfolio is approximately 94% whole loans.
-This should not be a surprise as almost all of our portfolio growth and new acquisitions over the last two to three years has been in whole loans.
-Mortgage-backed securities are admittedly more liquid and were therefore easier to sell, but we saw improvement in securities pricing through April and May whereas loan pricing changes were less defined and slower to occur, both on the way down and on the way back up.
+As this process intensified with more and more parties together with negotiating NDAs and then responding to voluminous data requests, all the while with our hair on fire negotiating a forbearance agreement while managing our balance sheet and liquidity and we engaged Houlihan Lokey at the end of March to manage...
+...nt in securities pricing through April and May whereas loan pricing changes were less defined and slower to occur, both on the way down and on the way back up.
 More importantly, it is more difficult to get non-market -- non-mark-to-market financing on mortgage-backed securities than it is on loans due to certain regulatory issues.
 So, the decision was relatively easy.
 We view loans as generally more attractive assets and -- than securities and loans are more conducive to more durable financing arrangements.
