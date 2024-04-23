@@ -1,4 +1,5 @@
 # Utility functions
+max_ect_length = 8000
 
 def is_float(s):
     try: 
