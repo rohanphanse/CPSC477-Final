@@ -1,0 +1,13 @@
+ 1. COVID-19 Pandemic Caused Fixed Income Market Turmoil
+
+The COVID-19 pandemic caused a significant disruption in the fixed income market in March 2020, leading to near catastrophic conditions. Investors sold their credit investments and reinvested into safer risk-off assets, resulting in sharp downward price movements in all sectors of the fixed income market, except U.S. treasuries. The Federal Reserve responded by implementing several initiatives to combat the worsening economic conditions, including cutting the federal funds rate to 0%, implementing new purchase plans for treasuries and agency mortgage-backed securities, and reviving funding programs like the TELS and commercial paper facility.
+
+# 2. Chimera's Risk Management and Portfolio Adjustments
+
+Chimera, a financial services company, took several balance sheet initiatives to protect its book value and meet margin calls from repo lenders. The company sold its agency mortgage-backed securities portfolio to pay down debt and further deleverage its overall portfolio. It also terminated all its agency hedge positions and sold its entire portfolio of residential agency pass-throughs. These actions reduced the company's risk exposure as measured by recourse leverage, resulting in a 35% reduction of recourse leverage over the last three months and 42% over the past six months.
+
+# 3. Liquidity and Cash Management
+
+Chimera currently has approximately $650 million in cash and unencumbered assets, after paying both its preferred and common stock dividends totaling $111 million. The company believes it is important to have ample liquidity in the current market and plans to monitor its liquidity and assess opportunities to increase liquidity and balance, supporting its current portfolio and finding new opportunities in the market.
+
+# 4.

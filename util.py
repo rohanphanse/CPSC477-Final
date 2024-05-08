@@ -8,12 +8,14 @@ def is_float(s):
     except: 
         return False
 
-def extract_statistic(s):
+def extract_statistic(s, ignore_single_digit = False):
     # The string should not be empty
     s = s.replace(",", "") # Remove commas
     if len(s) == 0:
         return None
     # It could be a valid number that is not a recent year (i.e 2015-2025)
+    if ignore_single_digit and is_float(s) and float(s) < 10:
+        return None
     if is_float(s) and (float(s) < 2015 or float(s) > 2025):
         return (float(s), None)
     # In the form of $[valid number]
@@ -24,26 +26,26 @@ def extract_statistic(s):
         return (float(s[:-1]), "%")
     return None
 
-def extract_numbers(text):
+def extract_numbers(text, ignore_single_digit = False):
     words = [s for line in text.split("\n") for s in line.split(" ")]
     words = list(filter(len, words))
     words = list(map(lambda s: s[:-1] if s[-1] in ["."] else s, words))
-    numbers = set(map(extract_statistic, words))
+    numbers = set(map(lambda w: extract_statistic(w, ignore_single_digit), words))
     numbers.remove(None)
     return list(numbers)
 
-def extract_key_points(ect, summary):
+def extract_key_points(ect, summary, ignore_single_digit = False):
     ect_numbers = []
     if len(ect) > max_ect_length:
         front = ect[:max_ect_length // 2]
         back = ect[-max_ect_length // 2:]
-        ect_numbers = extract_numbers(f"{front}\n{back}")
+        ect_numbers = extract_numbers(f"{front}\n{back}", ignore_single_digit)
     else:
-        ect_numbers = extract_numbers(ect)
+        ect_numbers = extract_numbers(ect, ignore_single_digit)
     key_points = ""
     key_points_numbers = []
     for line in summary.split("\n"):
-        line_numbers = extract_numbers(line)
+        line_numbers = extract_numbers(line, ignore_single_digit)
         ect_precision = 0
         for n in line_numbers:
             if n in ect_numbers:
