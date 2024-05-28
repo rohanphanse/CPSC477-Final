@@ -1,4 +1,4 @@
-## CPSC 477 Final Project: Knowledge Distillation From Gemini to Mistral for Earnings Call Transcript Summarization
+## CPSC 477 Final: Knowledge Distillation From Gemini to Mistral for Earnings Call Transcript Summarization
 By: Rohan Phanse and Joonhee Park
 
 ## Setup Guide
