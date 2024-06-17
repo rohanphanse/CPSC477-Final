@@ -7,4 +7,4 @@ First, install Jupyter Lab by running `pip install jupyterlab` in the terminal a
 
 ### Report
 
-See [`report.pdf`](https://github.com/joonhee0416/CPSC477-Final/blob/main/report.pdf) for details about project motivations, related work, approach, and results.
+See [`report.pdf`](https://github.com/rohanphanse/CPSC477-Final/blob/main/report.pdf) for details about project motivations, related work, approach, and results.
